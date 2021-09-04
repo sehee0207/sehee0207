@@ -2,8 +2,7 @@
 
 <p align=center>
   
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=sehee0207&show_icons=true)<br/> -->
-![sehee0207's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sehee0207&show_icons=true)<br/>
 
 <!--
 **sehee0207/sehee0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
