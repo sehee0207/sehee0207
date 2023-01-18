@@ -3,8 +3,6 @@
 <p align=center>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehee0207)](https://github.com/anuraghazra/github-readme-stats)
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g2u5m830awp2jfguvr9dveuvs&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 <!--
 **sehee0207/sehee0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
