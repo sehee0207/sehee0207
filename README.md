@@ -1,8 +1,12 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Kim+Sehee+%E2%9A%BE%F0%9F%A6%8A)](https://git.io/typing-svg)</br>
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehee0207)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align=center>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehee0207)](https://github.com/anuraghazra/github-readme-stats)
+##### - <i>2020.03 ~ 2023.02</i> Sunrin Internet High School, Software department
+##### - <i>2023.03 ~</i> Sookmyung Women's University, Computer Science department
+##### - <i>2023.03 ~</i> SOLUX
+##### - <i>2023.09 ~ 2024.06</i> Sookmyung GDSC Member
+
+
 <!--
 **sehee0207/sehee0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
