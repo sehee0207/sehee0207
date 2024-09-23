@@ -5,6 +5,7 @@
 ##### - <i>2023.03 ~</i> Sookmyung Women's University, Computer Science department
 ##### - <i>2023.03 ~</i> SOLUX
 ##### - <i>2023.09 ~ 2024.06</i> Sookmyung GDSC Member
+##### - <i>2024.03 ~</i> ALGOS
 
 
 <!--
