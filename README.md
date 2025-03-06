@@ -6,6 +6,7 @@
 ##### - <i>2023.03 ~</i> SOLUX
 ##### - <i>2023.09 ~ 2024.06</i> Sookmyung GDSC Member
 ##### - <i>2024.03 ~</i> ALGOS
+##### - <i>2025.01 ~</i> [itda](https://eduitda.com) Frontend Developer
 
 
 <!--
