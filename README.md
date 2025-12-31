@@ -3,10 +3,10 @@
 
 ##### - <i>2020.03 ~ 2023.02</i> Sunrin Internet High School, Software department
 ##### - <i>2023.03 ~</i> Sookmyung Women's University, Computer Science department
-##### - <i>2023.03 ~</i> SOLUX
+##### - <i>2023.03 ~ 2026.02</i> SOLUX
 ##### - <i>2023.09 ~ 2024.06</i> Sookmyung GDSC Member
-##### - <i>2024.03 ~</i> ALGOS
-##### - <i>2025.01 ~</i> [itda](https://eduitda.com) Frontend Developer
+##### - <i>2024.03 ~ 2026.02</i> ALGOS
+##### - <i>2025.01 ~ 2025.12</i> [itda](https://eduitda.com) Frontend Developer
 
 
 <!--
