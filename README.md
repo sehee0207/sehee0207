@@ -8,6 +8,7 @@
 ##### - <i>2024.03 ~ 2026.02</i> ALGOS
 ##### - <i>2025.01 ~ 2025.12</i> [itda](https://eduitda.com) Frontend Developer
 ##### - <i>2026.01 ~ 2026.01</i> goorm IDE Console SQD Fullstack Engineer Intern
+##### - <i>2026.03 ~ </i> goorm IDE Studio SQD Fullstack Engineer Intern
 
 
 <!--
