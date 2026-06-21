@@ -1,27 +1,69 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Kim+Sehee+%E2%9A%BE%F0%9F%A6%8A)](https://git.io/typing-svg)</br>
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehee0207)](https://github.com/anuraghazra/github-readme-stats) -->
+## 🎓 Education
 
-##### - <i>2020.03 ~ 2023.02</i> Sunrin Internet High School, Software department
-##### - <i>2023.03 ~</i> Sookmyung Women's University, Computer Science department
-##### - <i>2023.03 ~ 2026.02</i> SOLUX
-##### - <i>2023.09 ~ 2024.06</i> Sookmyung GDSC Member
-##### - <i>2024.03 ~ 2026.02</i> ALGOS
-##### - <i>2025.01 ~ 2025.12</i> [itda](https://eduitda.com) Frontend Developer
-##### - <i>2026.01 ~ 2026.01</i> goorm IDE Console SQD Fullstack Engineer Intern
-##### - <i>2026.03 ~ </i> goorm IDE Studio SQD Fullstack Engineer Intern
+- **Sunrin Internet High School**  
+  Department of Software  
+  <sub>2020.03 ~ 2023.02</sub>
 
+- **Sookmyung Women's University**  
+  Department of Computer Science  
+  <sub>2023.03 ~ Present</sub>
 
-<!--
-**sehee0207/sehee0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Experience
 
-Here are some ideas to get you started:
+- **goorm**  
+  Fullstack Engineer Intern, IDE Studio SQD  
+  Contributed to [Arkain](https://arkain.io)  
+  <sub>2026.03 ~ Present</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **goorm**  
+  Fullstack Engineer Intern, IDE Console SQD  
+  <sub>2026.01 ~ 2026.01</sub>
+
+- **itda**  
+  Frontend Developer  
+  <sub>2025.01 ~ 2025.12</sub>
+
+## 🌱 Activities
+
+- **ALGOS**  
+  <sub>2024.03 ~ 2026.02</sub>
+
+- **Sookmyung GDSC**  
+  Member  
+  <sub>2023.09 ~ 2024.06</sub>
+
+- **SOLUX**  
+  <sub>2023.03 ~ 2026.02</sub>
+  
+## 🛠 Tech Stack
+
+### Frontend
+<div align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+<div align="left">
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
+
+### Backend
+<div align="left">
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</div>
+
+### Database & DevOps
+<div align="left">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sehee0207&show_icons=true&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehee0207&layout=compact&theme=tokyonight" height="180" />
